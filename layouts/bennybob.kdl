@@ -1,9 +1,6 @@
 layout {
-    pane size=1 borderless=true {
-        plugin location="tab-bar"
-    }
     pane split_direction="vertical" {
-        pane
+        pane borderless=true
     }
     pane split_direction="vertical" {
         // value omitted, will be layed out horizontally
