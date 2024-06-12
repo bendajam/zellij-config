@@ -4,7 +4,6 @@ layout {
     }
     pane split_direction="vertical" {
         // value omitted, will be layed out horizontally
-        pane 
         pane
         pane
     }
